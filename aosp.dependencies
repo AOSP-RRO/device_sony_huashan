@@ -1,0 +1,50 @@
+[
+  {
+    "repository": "CyanogenMod/android_device_sony_common",
+    "target_path": "device/sony/common",
+    "remote": "github",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "remote": "github",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "CyanogenMod/android_kernel_sony_msm8960t",
+    "target_path": "kernel/sony/msm8960t",
+    "remote": "github",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_sony_DASH",
+    "target_path": "hardware/sony/DASH",
+    "remote": "github",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "remote": "github",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "CyanogenMod/android_external_stlport",
+    "target_path": "external/stlport",
+    "remote": "github",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "CyanogenMod/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "remote": "github",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_sony",
+    "target_path": "vendor/sony",
+    "remote": "github",
+    "branch": "cm-14.1"
+  }
+]
