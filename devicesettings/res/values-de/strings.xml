@@ -13,6 +13,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_gestures_panel_title">Gesten</string>
   <string name="ambient_display_title">Inaktivitätsdisplay</string>
   <string name="ambient_display_enable_title">Inaktivitätsdisplay</string>
   <string name="ambient_display_enable_summary">Bildschirm aktivieren, wenn Sie Benachrichtigungen erhalten</string>
@@ -22,6 +23,7 @@
   <string name="pick_up_gesture_summary">Beim Aufheben Benachrichtigungen kurzzeitig einblenden</string>
   <string name="pocket_gesture_title">Tasche</string>
   <string name="pocket_gesture_summary">Benachrichtigungen kurz einblenden, wenn das Gerät aus der Tasche genommen wird</string>
+  <string name="proximity_wake_title">Aufwecken bei Annäherung</string>
   <string name="proximity_wake_enable_title">Aufwecken bei Annäherung</string>
   <string name="proximity_wake_enable_summary">Gerät durch Winken aufwecken</string>
 </resources>

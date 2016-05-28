@@ -13,6 +13,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="screen_gestures_panel_title">Bevægelser</string>
   <string name="ambient_display_title">Inaktivitetsvisning</string>
   <string name="ambient_display_enable_title">Inaktivitetsvisning</string>
   <string name="ambient_display_enable_summary">Tænder skærmen, når du modtager notifikationer</string>
@@ -22,6 +23,7 @@
   <string name="pick_up_gesture_summary">Blink med notifikationerne ved opsamling</string>
   <string name="pocket_gesture_title">Lomme</string>
   <string name="pocket_gesture_summary">Vibrér, hvis der er notifikationer, når telefonen tages op ad lommen</string>
+  <string name="proximity_wake_title">Berøringsfri vækning</string>
   <string name="proximity_wake_enable_title">Berøringsfri vækning</string>
   <string name="proximity_wake_enable_summary">Vækker enheden ved at vinke</string>
 </resources>
