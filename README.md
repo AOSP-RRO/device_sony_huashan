@@ -1,6 +1,7 @@
 Sony Xperia SP
 ==============
 
+
 The Sony Xperia SP (codenamed _"HuaShan"_) is a mid-range smartphone from Sony Mobile.
 
 It was announced on 18 March 2013.
