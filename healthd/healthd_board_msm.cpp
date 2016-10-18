@@ -25,7 +25,7 @@
 #include <linux/android_alarm.h>
 #include <linux/rtc.h>
 
-#include <healthd.h>
+#include <healthd/healthd.h>
 
 #define BACKLIGHT_ON_LEVEL        100
 #define BACKLIGHT_PATH            "/sys/devices/i2c-10/10-0040/leds/lcd-backlight1/brightness"
